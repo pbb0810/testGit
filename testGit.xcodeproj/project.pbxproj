@@ -15,6 +15,7 @@
 		2BCE9F19232115FD0065B479 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9F18232115FD0065B479 /* main.m */; };
 		2BCE9F23232115FD0065B479 /* testGitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9F22232115FD0065B479 /* testGitTests.m */; };
 		2BCE9F2E232115FD0065B479 /* testGitUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BCE9F2D232115FD0065B479 /* testGitUITests.m */; };
+		2BCE9F3C232116270065B479 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2BCE9F3B232116270065B479 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		2BCE9F29232115FD0065B479 /* testGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BCE9F2D232115FD0065B479 /* testGitUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testGitUITests.m; sourceTree = "<group>"; };
 		2BCE9F2F232115FD0065B479 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2BCE9F3B232116270065B479 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		2BCE9EFD232115FA0065B479 = {
 			isa = PBXGroup;
 			children = (
+				2BCE9F3B232116270065B479 /* .gitignore */,
 				2BCE9F08232115FB0065B479 /* testGit */,
 				2BCE9F21232115FD0065B479 /* testGitTests */,
 				2BCE9F2C232115FD0065B479 /* testGitUITests */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BCE9F3C232116270065B479 /* .gitignore in Resources */,
 				2BCE9F16232115FD0065B479 /* LaunchScreen.storyboard in Resources */,
 				2BCE9F13232115FD0065B479 /* Assets.xcassets in Resources */,
 				2BCE9F11232115FB0065B479 /* Main.storyboard in Resources */,
