@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"初始化首页");
+    NSLog(@"完成直播功能");
 }
 
 
